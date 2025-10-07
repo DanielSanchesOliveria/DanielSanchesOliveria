@@ -22,13 +22,13 @@ Tenho conhecimentos em:
 
 <br><br>
 
-🌱 Atualmente estou aprendendo: **Python** e **Node.js**
+Atualmente estou aprendendo: **Python** e **Node.js**
 
 ---
 
 ## 📬 Contatos
 
-<p align="center">Gostou? Me chama! 😄</p>
+<p align="center">Gostou? Me chama!</p>
 
 <p align="center">
   <a href="mailto:ffalves454@gmail.com">
