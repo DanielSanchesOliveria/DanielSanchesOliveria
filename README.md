@@ -1,5 +1,5 @@
 <h1 align="center"> HI! My name is Daniel Sanches </h1>
-<p align="center">DEV</p>
+<p align="center">DESENVOLVEDOR</p>
 <p align="left">
 Tenho conhecimentos em:
 
