@@ -1,14 +1,6 @@
 <h1 align="center"> HI! My name is Daniel Sanches </h1>
 <p align="center">DEV BACK-END</p>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Danielsan0123&show_icons=true&theme=midnight-purple" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsan0123&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
-
-
 <p align="left">
-Sou estudante do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas.  
 Tenho conhecimentos em:
 
 </p>
