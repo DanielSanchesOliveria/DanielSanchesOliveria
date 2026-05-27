@@ -1,28 +1,65 @@
-<h1 align="center"> HI! My name is Daniel Sanches </h1>
-<p align="center">DESENVOLVEDOR</p>
-<p align="left">
-Tenho conhecimentos em:
+<h1 align="center">Hi! My name is Daniel Oliveira 👋</h1>
 
+<p align="center">
+Desenvolvedor em formação
 </p>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-Atualmente estou aprendendo: **Python** e **Node.js**
 
 ---
 
-## 📬 Contatos
+## 🚀 Sobre mim
 
-<p align="center">Gostou? Me chama!</p>
+- 🎓 Estudante de desenvolvimento de software
+- 💻 Focado em desenvolvimento web
+- 📚 Aprendendo programação e estruturação de projetos
+- 🚀 Buscando minha primeira oportunidade na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- Node.js
+- JavaScript
+- Responsividade
+
+---
+
+## 📂 Projetos
+
+- Portfólio pessoal
+- Sistema com calendário e bloco de notas
+- Projetos práticos em HTML e CSS
+
+---
+
+## 📬 Contato
 
 <p align="center">
-  <a href="mailto:ffalves454@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fefer-ferfer-1b3439298/">
-    <img src="https://img.sh
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
